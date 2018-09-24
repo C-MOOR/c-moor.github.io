@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on C-MOOR</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on C-MOOR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clovis BIOL11A Tutorials</title>
+      <link>/post/2018-09-25-clovis-tutorials/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-09-25-clovis-tutorials/</guid>
+      <description>PreLab Introduction to R This will open a web tutorial teaching the basics of R.
+ Day 1 Lab Coming soon
+ Day 2 Lab Coming soon
+ </description>
+    </item>
+    
+  </channel>
+</rss>

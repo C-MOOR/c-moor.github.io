@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C-MOOR on C-MOOR</title>
+    <link>/</link>
+    <description>Recent content in C-MOOR on C-MOOR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>/get-started/intro/</link>
+      <pubDate>Sat, 20 Aug 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/get-started/intro/</guid>
+      <description>
+
+&lt;h1 id=&#34;get-started&#34;&gt;Get Started&lt;/h1&gt;
+
+&lt;p&gt;C-MOOR teaches data analysis using the R programming language.  If you&amp;rsquo;ve never done any programming before, welcome!  We&amp;rsquo;ve got tutorials to get you up to speed.&lt;/p&gt;
+
+&lt;p&gt;All of our tutorial series start with a basic overview, which you can access directly from this site without having to sign up or install anything.  If you just want to browse and get an idea of what we have, or get an introduction to a topic, these are a great place to start.&lt;/p&gt;
+
+&lt;p&gt;If you want to dig deeper in to a particular topic, you will need access to R and RStudio so that you can run code yourself.  You can do this in one of two ways:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Install it yourself&lt;/strong&gt;, on your own computer.  R is open source (free!) and the installation is pretty straightforward, there are some instructions below.  R can be installed on Windows, Mac, or Linux.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sign up for an account&lt;/strong&gt; at &lt;a href=&#34;https://c-moor.carnegiescience.edu&#34; target=&#34;_blank&#34;&gt;https://c-moor.carnegiescience.edu&lt;/a&gt;.   Currently accounts are free, though we will need to approve you.  You will not need to install anything.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;installing-r&#34;&gt;Installing R&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Install base R:&lt;/strong&gt;  You can download R from the &lt;a href=&#34;https://cran.rstudio.com&#34; target=&#34;_blank&#34;&gt;CRAN repository&lt;/a&gt;.  Choose your operating system, then download the most recent release of R.  Once you&amp;rsquo;ve downloaded the file, double-click to run it, and it should walk you through the R installation wizard.  If you&amp;rsquo;re not sure about any of the options, choosing the default is a good idea.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Install RStudio:&lt;/strong&gt;  Download RStudio from the &lt;a href=&#34;https://www.rstudio.com/products/rstudio/download/&#34; target=&#34;_blank&#34;&gt;RStudio website&lt;/a&gt;.  Find RStudio Desktop, which is completely free, and click the Download button.  Once you&amp;rsquo;ve downloaded the file, double-click to run it, and it should walk you through the R installation wizard.  If you&amp;rsquo;re not sure about any of the options, choosing the default is a good idea.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Start Up R and RStudio:&lt;/strong&gt;  Once you&amp;rsquo;ve installed RStudio you should be able to find and run it just like any other program. You can search for it in the search bar, or find it under the Start Menu (for Windows) or Applications (for Mac).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Choose a Tutorial and Get Started!:&lt;/strong&gt;  Find a topic you&amp;rsquo;re interested in and jump on in!  Often tutorials will require you to install additional R packages that are specialized for dealing with particular types of data; instructions for installing any extra packages should be available along with the tutorials.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Courses and Workshops</title>
+      <link>/courses/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/courses/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clovis BIOL11A Tutorials</title>
+      <link>/post/2018-09-25-clovis-tutorials/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-09-25-clovis-tutorials/</guid>
+      <description>&lt;div id=&#34;prelab&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;PreLab&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://katherinecox.shinyapps.io/clovis_intro_r/&#34;&gt;Introduction to R&lt;/a&gt; This will open a web tutorial teaching the basics of R.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;day-1-lab&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Day 1 Lab&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Coming soon&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;day-2-lab&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Day 2 Lab&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Coming soon&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
