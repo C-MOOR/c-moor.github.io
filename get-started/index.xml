@@ -6,20 +6,50 @@
     <description>Recent content in Get Started on C-MOOR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2018 C-MOOR under (CC) BY-NC-SA 4.0</copyright>
     <lastBuildDate>Sun, 20 Aug 2017 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/get-started/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
+      <title>Get Started</title>
       <link>/get-started/intro/</link>
       <pubDate>Sat, 20 Aug 2016 00:00:00 -0400</pubDate>
       
       <guid>/get-started/intro/</guid>
-      <description>Get Started C-MOOR teaches data analysis using the R programming language. If you&amp;rsquo;ve never done any programming before, welcome! We&amp;rsquo;ve got tutorials to get you up to speed.
+      <description>C-MOOR teaches data analysis using the R programming language. If you&amp;rsquo;ve never done any programming before, welcome! We&amp;rsquo;ve got tutorials to get you up to speed.
 All of our tutorial series start with a basic overview, which you can access directly from this site without having to sign up or install anything. If you just want to browse and get an idea of what we have, or get an introduction to a topic, these are a great place to start.</description>
+    </item>
+    
+    <item>
+      <title>Installing R</title>
+      <link>/get-started/installr/</link>
+      <pubDate>Sat, 20 Aug 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/get-started/installr/</guid>
+      <description>Install base R: You can download R from the CRAN repository. Choose your operating system, then download the most recent release of R. Once you&amp;rsquo;ve downloaded the file, double-click to run it, and it should walk you through the R installation wizard. If you&amp;rsquo;re not sure about any of the options, choosing the default is a good idea.
+ Install RStudio: Download RStudio from the RStudio website. Find RStudio Desktop, which is completely free, and click the Download button.</description>
+    </item>
+    
+    <item>
+      <title>Installing Standard R packages</title>
+      <link>/get-started/installpackages/</link>
+      <pubDate>Sat, 20 Aug 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/get-started/installpackages/</guid>
+      <description>Most standard R packages can be installed using the install.packages() command. You will need to enter the name of the package you want to install between the parentheses. For example, to install the learnr package:
+ Open RStudio In the interactive R console (bottom left panel), type: install.packages(&amp;quot;learnr&amp;quot;)  You should see a bunch of red text scroll by as R installs the package.  Check to see if the package installed properly by loading it using the library() command: library(&amp;quot;learnr&amp;quot;)  If it installed properly, you should not get an error message when you run the library() command.</description>
+    </item>
+    
+    <item>
+      <title>Installing BioConductor packages</title>
+      <link>/get-started/installbiocpackages/</link>
+      <pubDate>Sat, 20 Aug 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/get-started/installbiocpackages/</guid>
+      <description>Many R packages for analyzing biological data R are best installed using BioConductor. First you will need to tell R where to find the BioConductor installation instructions, using source(&amp;quot;https://bioconductor.org/biocLite.R&amp;quot;). You will then use the biocLite() command to install the package. You will need to enter the name of the package you want to install between the parentheses. For example, to install the DESeq2 package:
+ Open RStudio In the interactive R console (bottom left panel), type: source(&amp;quot;https://bioconductor.</description>
     </item>
     
   </channel>
