@@ -6,21 +6,19 @@
     <description>Recent content in Course on C-MOOR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Sep 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tags/course/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Clovis BIOL11A Tutorials</title>
-      <link>/post/2018-09-25-clovis-tutorials/</link>
-      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      <link>/course/2018-09-25-clovis-tutorials/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>/post/2018-09-25-clovis-tutorials/</guid>
+      <guid>/course/2018-09-25-clovis-tutorials/</guid>
       <description>PreLab Introduction to R This will open a web tutorial teaching the basics of R.
- Day 1 Lab Day 1 Lab Download this file and open it using RStudio. You may need to right-click the link and choose “Download File”.
- Day 2 Lab Day 2 Lab Download this file and open it using RStudio. You may need to right-click the link and choose “Download File”.
- </description>
+Day 1 Lab Day 1 Lab Download this file and open it using RStudio. You may need to right-click the link and choose &amp;ldquo;Download File&amp;rdquo;. Make sure you save it as a .Rmd file - some browsers like to save it as a text file by adding .txt to the end of the file name.</description>
     </item>
     
   </channel>

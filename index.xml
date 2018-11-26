@@ -40,15 +40,6 @@
     </item>
     
     <item>
-      <title>Courses and Workshops</title>
-      <link>/courses/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/courses/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Get Started</title>
       <link>/get-started/intro/</link>
       <pubDate>Sat, 20 Aug 2016 00:00:00 -0400</pubDate>
@@ -149,22 +140,24 @@
     
     <item>
       <title>Clovis BIOL11A Tutorials</title>
-      <link>/post/2018-09-25-clovis-tutorials/</link>
-      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      <link>/course/2018-09-25-clovis-tutorials/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>/post/2018-09-25-clovis-tutorials/</guid>
-      <description>&lt;div id=&#34;prelab&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;PreLab&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://katherinecox.shinyapps.io/clovis_intro_r/&#34;&gt;Introduction to R&lt;/a&gt; This will open a web tutorial teaching the basics of R.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;day-1-lab&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Day 1 Lab&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://c-moor.github.io/learnr_tutorials/Clovis_RNAseq_single_sample.Rmd&#34;&gt;Day 1 Lab&lt;/a&gt; Download this file and open it using RStudio. You may need to right-click the link and choose “Download File”.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;day-2-lab&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Day 2 Lab&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://c-moor.github.io/learnr_tutorials/Clovis_Differential_Expression.Rmd&#34;&gt;Day 2 Lab&lt;/a&gt; Download this file and open it using RStudio. You may need to right-click the link and choose “Download File”.&lt;/p&gt;
-&lt;/div&gt;
+      <guid>/course/2018-09-25-clovis-tutorials/</guid>
+      <description>
+
+&lt;h3 id=&#34;prelab&#34;&gt;PreLab&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://katherinecox.shinyapps.io/clovis_intro_r/&#34; target=&#34;_blank&#34;&gt;Introduction to R&lt;/a&gt;
+This will open a web tutorial teaching the basics of R.&lt;/p&gt;
+
+&lt;h3 id=&#34;day-1-lab&#34;&gt;Day 1 Lab&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/C-MOOR/clovis-biol11a/master/Clovis_RNAseq_single_sample.Rmd&#34; target=&#34;_blank&#34;&gt;Day 1 Lab&lt;/a&gt;  Download this file and open it using RStudio. You may need to right-click the link and choose &amp;ldquo;Download File&amp;rdquo;.  Make sure you save it as a .Rmd file - some browsers like to save it as a text file by adding .txt to the end of the file name.&lt;/p&gt;
+
+&lt;h3 id=&#34;day-2-lab&#34;&gt;Day 2 Lab&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/C-MOOR/clovis-biol11a/master/Clovis_Differential_Expression.Rmd&#34; target=&#34;_blank&#34;&gt;Day 2 Lab&lt;/a&gt;  Download this file and open it using RStudio. You may need to right-click the link and choose &amp;ldquo;Download File&amp;rdquo;.  Make sure you save it as a .Rmd file - some browsers like to save it as a text file by adding .txt to the end of the file name.&lt;/p&gt;
 </description>
     </item>
     
