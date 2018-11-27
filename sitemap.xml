@@ -18,6 +18,14 @@
     
     <url>
     
+      <loc>/tutorial/rna-seq/</loc>
+      <lastmod>2018-11-27T12:37:03-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/course/2018-09-25-clovis-tutorials/</loc>
       <lastmod>2018-11-26T16:23:08-05:00</lastmod>
     </url>
@@ -59,7 +67,15 @@
     <url>
     
       <loc>/course/</loc>
-      <lastmod>2018-11-26T16:23:08-05:00</lastmod>
+      <lastmod>2018-11-27T12:37:03-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tutorial/</loc>
+      <lastmod>2018-11-27T12:37:03-05:00</lastmod>
     </url>
     
   
@@ -68,14 +84,6 @@
     
       <loc>/get-started/</loc>
       <lastmod>2018-09-12T12:47:32-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2018-08-21T08:39:17-04:00</lastmod>
     </url>
     
   
@@ -125,8 +133,26 @@
     
     <url>
     
+      <loc>/tags/rnaseq/</loc>
+      <lastmod>2018-11-27T12:37:03-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/</loc>
       <lastmod>2018-11-26T16:23:08-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/tutorial/</loc>
+      <lastmod>2018-11-27T12:37:03-05:00</lastmod>
       <priority>0</priority>
     </url>
     
