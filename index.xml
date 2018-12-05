@@ -6,8 +6,17 @@
     <description>Recent content in C-MOOR on C-MOOR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 20 Aug 2018 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Portfolios</title>
+      <link>/portfolio/portfolio-landing-settings/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/portfolio/portfolio-landing-settings/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Coming Soon!</title>
@@ -16,16 +25,6 @@
       
       <guid>/datasets/comingsoon/</guid>
       <description>&lt;p&gt;Check back soon for more information about our current data analysis projects.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Coming Soon!</title>
-      <link>/portfolio-landing/comingsoon/</link>
-      <pubDate>Sat, 20 Aug 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/portfolio-landing/comingsoon/</guid>
-      <description>&lt;p&gt;Check back soon for portfolios of C-MOOR users!&lt;/p&gt;
 </description>
     </item>
     
@@ -158,6 +157,29 @@
       <pubDate>Tue, 25 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/course/2018-09-25-clovis-tutorials/</guid>
+      <description>
+
+&lt;h3 id=&#34;prelab&#34;&gt;PreLab&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://katherinecox.shinyapps.io/clovis_intro_r/&#34; target=&#34;_blank&#34;&gt;Introduction to R&lt;/a&gt;
+This will open a web tutorial teaching the basics of R.&lt;/p&gt;
+
+&lt;h3 id=&#34;day-1-lab&#34;&gt;Day 1 Lab&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/C-MOOR/clovis-biol11a/master/Clovis_RNAseq_single_sample.Rmd&#34; target=&#34;_blank&#34;&gt;Day 1 Lab&lt;/a&gt;  Download this file and open it using RStudio. You may need to right-click the link and choose &amp;ldquo;Download File&amp;rdquo;.  Make sure you save it as a .Rmd file - some browsers like to save it as a text file by adding .txt to the end of the file name.&lt;/p&gt;
+
+&lt;h3 id=&#34;day-2-lab&#34;&gt;Day 2 Lab&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/C-MOOR/clovis-biol11a/master/Clovis_Differential_Expression.Rmd&#34; target=&#34;_blank&#34;&gt;Day 2 Lab&lt;/a&gt;  Download this file and open it using RStudio. You may need to right-click the link and choose &amp;ldquo;Download File&amp;rdquo;.  Make sure you save it as a .Rmd file - some browsers like to save it as a text file by adding .txt to the end of the file name.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clovis BIOL11A Lab Fall 2018</title>
+      <link>/portfolio/coxkatherine/projects/2018-09-25-clovis-tutorials/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/portfolio/coxkatherine/projects/2018-09-25-clovis-tutorials/</guid>
       <description>
 
 &lt;h3 id=&#34;prelab&#34;&gt;PreLab&lt;/h3&gt;
