@@ -42,14 +42,6 @@
     
     <url>
     
-      <loc>/portfolio/coxkatherine/</loc>
-      <lastmod>2018-12-04T18:15:09-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/privacy/</loc>
       <lastmod>2018-08-21T08:39:17-04:00</lastmod>
     </url>
@@ -60,6 +52,14 @@
     
       <loc>/course/2018-04-13-practical-genomics/</loc>
       <lastmod>2018-11-29T17:34:35-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/course/2018-01-08-intersession/</loc>
+      <lastmod>2018-01-08T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -159,8 +159,16 @@
     <url>
     
       <loc>/tags/jhu/</loc>
-      <lastmod>2018-12-04T18:15:09-05:00</lastmod>
+      <lastmod>2018-11-29T17:34:35-05:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/portfolio/coxkatherine/</loc>
+      <lastmod>2018-12-04T18:15:09-05:00</lastmod>
     </url>
     
   
@@ -185,7 +193,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2018-12-04T18:15:09-05:00</lastmod>
+      <lastmod>2018-11-29T17:34:35-05:00</lastmod>
       <priority>0</priority>
     </url>
     
