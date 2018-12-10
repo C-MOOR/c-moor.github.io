@@ -19,6 +19,41 @@
     </item>
     
     <item>
+      <title>Resources</title>
+      <link>/resource/intro/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/resource/intro/</guid>
+      <description>&lt;p&gt;Scroll down or click on any of these topics to see suggested resources for learning more:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/resource#biology&#34;&gt;Biology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/resource#rnaseq&#34;&gt;RNA-seq&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/resource#statistics&#34;&gt;Statistics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/resource#machine-learning&#34;&gt;Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/resource#r&#34;&gt;R&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Biology</title>
+      <link>/resource/biology/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/resource/biology/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://thecrashcourse.com&#34; target=&#34;_blank&#34;&gt;Crash Course&lt;/a&gt; has several videos explaining biology concepts.  We recommend the following videos in particular if you&amp;rsquo;d like to work on sequence analysis:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=cj8dDTHGJBY&amp;amp;list=PL3EED4C1D684D3ADF&amp;amp;index=4&#34; target=&#34;_blank&#34;&gt;Animal Cells&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=H8WJ2KENlK0&amp;amp;list=PL3EED4C1D684D3ADF&amp;amp;index=3&#34; target=&#34;_blank&#34;&gt;Biological Molecules&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8kK2zwjRV0M&amp;amp;list=PL3EED4C1D684D3ADF&amp;amp;index=10&#34; target=&#34;_blank&#34;&gt;DNA structure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=itsb2SqR-R0&amp;amp;index=11&amp;amp;list=PL3EED4C1D684D3ADF&#34; target=&#34;_blank&#34;&gt;Transcription and Translation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Coming Soon!</title>
       <link>/datasets/comingsoon/</link>
       <pubDate>Sat, 20 Aug 2016 00:00:00 -0400</pubDate>
@@ -35,6 +70,20 @@
       
       <guid>/help/comingsoon/</guid>
       <description>&lt;p&gt;Send us an e-mail at &lt;a href=&#34;mailto:c-moor@carnegiescience.edu&#34; target=&#34;_blank&#34;&gt;c-moor@carnegiescience.edu&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RNA-seq</title>
+      <link>/resource/rnaseq/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/resource/rnaseq/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rnaseq.uoregon.edu&#34; target=&#34;_blank&#34;&gt;RNA-seqlopedia&lt;/a&gt;: &amp;ldquo;The RNA-seqlopedia provides an overview of RNA-seq and of the choices necessary to carry out a successful RNA-seq experiment.&amp;rdquo;  It provides a good background and overview but does not go into the practical details of how to do the various data analysis steps (what programs to use and how to use them).&lt;/li&gt;
+&lt;li&gt;COMBINE-Australia, &amp;ldquo;&lt;a href=&#34;http://combine-australia.github.io/RNAseq-R/&#34; target=&#34;_blank&#34;&gt;RNAseq analysis in R&lt;/a&gt;&amp;ldquo;: Materials from a workshop on RNA-seq analysis in R.&lt;/li&gt;
+&lt;li&gt;HarvardX, &amp;ldquo;&lt;a href=&#34;http://rafalab.github.io/pages/harvardx.html&#34; target=&#34;_blank&#34;&gt;Data Analysis for the Life Sciences Series&lt;/a&gt;&amp;ldquo;: A data-science heavy series of lessons on analyzing biological data, with an emphasis on gene expression.  A good resource if you want to dive deeper into the statistics.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -59,6 +108,20 @@
     </item>
     
     <item>
+      <title>Statistics</title>
+      <link>/resource/statistics/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/resource/statistics/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://web.stanford.edu/class/bios221/book/&#34; target=&#34;_blank&#34;&gt;Modern Statistics for Modern Biology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://statquest.org&#34; target=&#34;_blank&#34;&gt;StatQuest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mosaic-web.org/go/SM2-technique/&#34; target=&#34;_blank&#34;&gt;Statistical Modeling: A Fresh Approach&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Installing R</title>
       <link>/get-started/installr/</link>
       <pubDate>Sat, 20 Aug 2016 00:00:00 -0400</pubDate>
@@ -73,6 +136,21 @@
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Choose a Tutorial and Get Started!:&lt;/strong&gt;  Find a topic you&amp;rsquo;re interested in and jump on in!  Often tutorials will require you to install additional R packages that are specialized for dealing with particular types of data; instructions for installing any extra packages should be available along with the tutorials.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>/resource/machine-learning/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/resource/machine-learning/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://web.stanford.edu/~hastie/ElemStatLearn/&#34; target=&#34;_blank&#34;&gt;The Elements of Statistical Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cs231n.stanford.edu&#34; target=&#34;_blank&#34;&gt;Convolutional Neural Networks for Visual Recognition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fast.ai&#34; target=&#34;_blank&#34;&gt;fast.ai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ai.google/education&#34; target=&#34;_blank&#34;&gt;Google AI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -103,6 +181,21 @@
 &lt;li&gt;If you don&amp;rsquo;t want to look through your &lt;code&gt;sessionInfo()&lt;/code&gt;, you can use the following command: &lt;code&gt;grep( &amp;quot;learnr&amp;quot;, loadedNamespaces(), value=TRUE )&lt;/code&gt; to see if the &lt;code&gt;learnr&lt;/code&gt; package is loaded.  If it loaded successfully, you should see the output &lt;code&gt;[1]&amp;quot;learnr&amp;quot;&lt;/code&gt;.  If it did not load, you will see &lt;code&gt;character(0)&lt;/code&gt;.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/resource/r/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/resource/r/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://r4ds.had.co.nz&#34; target=&#34;_blank&#34;&gt;R for Data Science&lt;/a&gt; &amp;ldquo;This book will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualise it and model it.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://swirlstats.com&#34; target=&#34;_blank&#34;&gt;swirl&lt;/a&gt;: &amp;ldquo;swirl teaches you R programming and data science interactively, at your own pace, and right in the R console!&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;DataCamp &lt;a href=&#34;https://www.datacamp.com/courses/free-introduction-to-r&#34; target=&#34;_blank&#34;&gt;Introduction to R&lt;/a&gt;: &amp;ldquo;In this introduction to R, you will master the basics of this beautiful open source language, including factors, lists and data frames. With the knowledge gained in this course, you will be ready to undertake your first very own data analysis.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jhudatascience.org/chromebookdatascience/&#34; target=&#34;_blank&#34;&gt;Chromebook Data Science&lt;/a&gt;: &amp;ldquo;Chromebook Data Science (CBDS) is a free, massive open online educational program offered through Leanpub to help anyone who can read, write, and use a computer to move into data science, the number one rated job.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -172,92 +265,6 @@ This will open a web tutorial teaching the basics of R.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/C-MOOR/clovis-biol11a/master/Clovis_Differential_Expression.Rmd&#34; target=&#34;_blank&#34;&gt;Day 2 Lab&lt;/a&gt;  Download this file and open it using RStudio. You may need to right-click the link and choose &amp;ldquo;Download File&amp;rdquo;.  Make sure you save it as a .Rmd file - some browsers like to save it as a text file by adding .txt to the end of the file name.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Clovis BIOL11A Lab Fall 2018</title>
-      <link>/portfolio/coxkatherine/projects/2018-09-25-clovis-tutorials/</link>
-      <pubDate>Tue, 25 Sep 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/portfolio/coxkatherine/projects/2018-09-25-clovis-tutorials/</guid>
-      <description>
-
-&lt;h3 id=&#34;prelab&#34;&gt;PreLab&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://katherinecox.shinyapps.io/clovis_intro_r/&#34; target=&#34;_blank&#34;&gt;Introduction to R&lt;/a&gt;
-This will open a web tutorial teaching the basics of R.&lt;/p&gt;
-
-&lt;h3 id=&#34;day-1-lab&#34;&gt;Day 1 Lab&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/C-MOOR/clovis-biol11a/master/Clovis_RNAseq_single_sample.Rmd&#34; target=&#34;_blank&#34;&gt;Day 1 Lab&lt;/a&gt;  Download this file and open it using RStudio. You may need to right-click the link and choose &amp;ldquo;Download File&amp;rdquo;.  Make sure you save it as a .Rmd file - some browsers like to save it as a text file by adding .txt to the end of the file name.&lt;/p&gt;
-
-&lt;h3 id=&#34;day-2-lab&#34;&gt;Day 2 Lab&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/C-MOOR/clovis-biol11a/master/Clovis_Differential_Expression.Rmd&#34; target=&#34;_blank&#34;&gt;Day 2 Lab&lt;/a&gt;  Download this file and open it using RStudio. You may need to right-click the link and choose &amp;ldquo;Download File&amp;rdquo;.  Make sure you save it as a .Rmd file - some browsers like to save it as a text file by adding .txt to the end of the file name.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Practical Genomics Workshop 2018</title>
-      <link>/course/2018-04-13-practical-genomics/</link>
-      <pubDate>Fri, 13 Apr 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/course/2018-04-13-practical-genomics/</guid>
-      <description>
-
-&lt;p&gt;These exercises were used as preparation for participants in the &lt;a href=&#34;https://practicalgenomics.github.io&#34; target=&#34;_blank&#34;&gt;2018 Practical Genomics&lt;/a&gt; workshop.  More information and registration for future workshops can be found at &lt;a href=&#34;http://genomics.jhu.edu/workshop&#34; target=&#34;_blank&#34;&gt;JHU Genomics&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Install R (version 3.4.3 or higher) and RStudio (version 1.1.423 or higher).&lt;/li&gt;
-&lt;li&gt;Some familiarity with basic R commands.  Prior to completing these assignments, participants were asked to complete the &lt;a href=&#34;https://swirlstats.com/students.html&#34; target=&#34;_blank&#34;&gt;Swirl&lt;/a&gt; &amp;ldquo;R Programming: The basics of programming in R&amp;rdquo; exercises.&lt;/li&gt;
-&lt;li&gt;Note: Participants were primarily graduate students and postdoctoral fellows studying biology, so some biological concepts are not explained.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
-
-&lt;p&gt;The following video demonstrates how to download, open, and complete assignments, assuming you have installed R and RStudio.&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/SbU-e14077E&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-
-&lt;h2 id=&#34;assignments&#34;&gt;Assignments&lt;/h2&gt;
-
-&lt;h3 id=&#34;april&#34;&gt;April&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/PracticalGenomics/assignments/master/prepwork-apr.Rmd&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; this file and open it using RStudio. You may need to right-click the link and choose &amp;ldquo;Download File&amp;rdquo;.  Make sure you save it as a .Rmd file - some browsers like to save it as a text file by adding .txt to the end of the file name (see the Instructions video).&lt;/p&gt;
-
-&lt;h3 id=&#34;may&#34;&gt;May&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/PracticalGenomics/assignments/master/prepwork-may.Rmd&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; this file and open it using RStudio. You may need to right-click the link and choose &amp;ldquo;Download File&amp;rdquo;.  Make sure you save it as a .Rmd file - some browsers like to save it as a text file by adding .txt to the end of the file name (see the Instructions video).&lt;/p&gt;
-
-&lt;h3 id=&#34;june&#34;&gt;June&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/PracticalGenomics/assignments/master/prepwork-jun.Rmd&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; this file and open it using RStudio. You may need to right-click the link and choose &amp;ldquo;Download File&amp;rdquo;.  Make sure you save it as a .Rmd file - some browsers like to save it as a text file by adding .txt to the end of the file name (see the Instructions video).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>JHU Intersession 2018</title>
-      <link>/course/2018-01-08-intersession/</link>
-      <pubDate>Mon, 08 Jan 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/course/2018-01-08-intersession/</guid>
-      <description></description>
     </item>
     
   </channel>

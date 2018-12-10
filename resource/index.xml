@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on C-MOOR</title>
+    <link>/resource/</link>
+    <description>Recent content in Resources on C-MOOR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/resource/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resources</title>
+      <link>/resource/intro/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/resource/intro/</guid>
+      <description>Scroll down or click on any of these topics to see suggested resources for learning more:
+ Biology RNA-seq Statistics Machine Learning R  </description>
+    </item>
+    
+    <item>
+      <title>Biology</title>
+      <link>/resource/biology/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/resource/biology/</guid>
+      <description>Crash Course has several videos explaining biology concepts. We recommend the following videos in particular if you&amp;rsquo;d like to work on sequence analysis:
+ Animal Cells Biological Molecules DNA structure Transcription and Translation  </description>
+    </item>
+    
+    <item>
+      <title>RNA-seq</title>
+      <link>/resource/rnaseq/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/resource/rnaseq/</guid>
+      <description>RNA-seqlopedia: &amp;ldquo;The RNA-seqlopedia provides an overview of RNA-seq and of the choices necessary to carry out a successful RNA-seq experiment.&amp;rdquo; It provides a good background and overview but does not go into the practical details of how to do the various data analysis steps (what programs to use and how to use them). COMBINE-Australia, &amp;ldquo;RNAseq analysis in R&amp;ldquo;: Materials from a workshop on RNA-seq analysis in R. HarvardX, &amp;ldquo;Data Analysis for the Life Sciences Series&amp;ldquo;: A data-science heavy series of lessons on analyzing biological data, with an emphasis on gene expression.</description>
+    </item>
+    
+    <item>
+      <title>Statistics</title>
+      <link>/resource/statistics/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/resource/statistics/</guid>
+      <description> Modern Statistics for Modern Biology StatQuest Statistical Modeling: A Fresh Approach  </description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>/resource/machine-learning/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/resource/machine-learning/</guid>
+      <description> The Elements of Statistical Learning Convolutional Neural Networks for Visual Recognition fast.ai Google AI  </description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/resource/r/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/resource/r/</guid>
+      <description>R for Data Science &amp;ldquo;This book will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualise it and model it.&amp;rdquo; swirl: &amp;ldquo;swirl teaches you R programming and data science interactively, at your own pace, and right in the R console!&amp;rdquo; DataCamp Introduction to R: &amp;ldquo;In this introduction to R, you will master the basics of this beautiful open source language, including factors, lists and data frames.</description>
+    </item>
+    
+  </channel>
+</rss>
