@@ -65,11 +65,39 @@
     
     <item>
       <title>Contact C-MOOR</title>
-      <link>/help/comingsoon/</link>
+      <link>/help/help/</link>
       <pubDate>Sat, 20 Aug 2016 00:00:00 -0400</pubDate>
       
-      <guid>/help/comingsoon/</guid>
-      <description>&lt;p&gt;Send us an e-mail at &lt;a href=&#34;mailto:c-moor@carnegiescience.edu&#34; target=&#34;_blank&#34;&gt;c-moor@carnegiescience.edu&lt;/a&gt;&lt;/p&gt;
+      <guid>/help/help/</guid>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;Send us an e-mail at &lt;a href=&#34;mailto:c-moor@carnegiescience.edu&#34; target=&#34;_blank&#34;&gt;c-moor@carnegiescience.edu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Chat with us on &lt;a href=&#34;https://c-moor.slack.com&#34; target=&#34;_blank&#34;&gt;Slack&lt;/a&gt; (&lt;a href=&#34;mailto:c-moor@carnegiescience.edu&#34; target=&#34;_blank&#34;&gt;e-mail&lt;/a&gt; us for an invitation)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;other-resources&#34;&gt;Other Resources&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You can find links for learning more about a variety of topics on our &lt;a href=&#34;/resource&#34;&gt;Resources&lt;/a&gt; page (Learn &amp;gt; Resources)&lt;/li&gt;
+&lt;li&gt;You can often find helpful discussions by searching the internet.  Try copying your code or error message into your preferred search engine, and you will usually find other people with the same problem and one or more solutions.  Frequently these discussions take place on sites like the ones listed below, so you can also try searching these sites directly or posting a question on them:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;general-data-analysis&#34;&gt;General Data Analysis&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://community.rstudio.com/&#34; target=&#34;_blank&#34;&gt;community.rstudio.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/&#34; target=&#34;_blank&#34;&gt;stackoverflow.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stats.stackexchange.com/&#34; target=&#34;_blank&#34;&gt;stats.stackexchange.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;biological-data-analysis&#34;&gt;Biological Data Analysis&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.biostars.org/&#34; target=&#34;_blank&#34;&gt;biostars.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://seqanswers.com/&#34; target=&#34;_blank&#34;&gt;seqanswers.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.bioconductor.org/&#34; target=&#34;_blank&#34;&gt;support.bioconductor.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
