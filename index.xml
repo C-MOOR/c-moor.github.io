@@ -37,6 +37,26 @@
     </item>
     
     <item>
+      <title>Cheat Sheets</title>
+      <link>/cheatsheet/cheatsheets/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/cheatsheet/cheatsheets/</guid>
+      <description>&lt;p&gt;The following pdfs provide some handy cheat sheets for remembering useful commands.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rstudio/cheatsheets/raw/master/base-r.pdf&#34; target=&#34;_blank&#34;&gt;base R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf&#34; target=&#34;_blank&#34;&gt;dplyr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf&#34; target=&#34;_blank&#34;&gt;ggplot2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf&#34; target=&#34;_blank&#34;&gt;RStudio IDE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf&#34; target=&#34;_blank&#34;&gt;R Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Many more cheat sheets can be found on the &lt;a href=&#34;https://www.rstudio.com/resources/cheatsheets/&#34; target=&#34;_blank&#34;&gt;RStudio Cheat Sheets&lt;/a&gt; page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Biology</title>
       <link>/resource/biology/</link>
       <pubDate>Mon, 10 Dec 2018 00:00:00 -0500</pubDate>
@@ -80,8 +100,11 @@
 
 &lt;ul&gt;
 &lt;li&gt;You can find links for learning more about a variety of topics on our &lt;a href=&#34;/resource&#34;&gt;Resources&lt;/a&gt; page (Learn &amp;gt; Resources)&lt;/li&gt;
-&lt;li&gt;You can often find helpful discussions by searching the internet.  Try copying your code or error message into your preferred search engine, and you will usually find other people with the same problem and one or more solutions.  Frequently these discussions take place on sites like the ones listed below, so you can also try searching these sites directly or posting a question on them:&lt;/li&gt;
+&lt;li&gt;You can find cheat sheets for common commands on our &lt;a href=&#34;/cheatsheet&#34;&gt;Cheat Sheets&lt;/a&gt; page (Learn &amp;gt; Cheat Sheets)&lt;/li&gt;
+&lt;li&gt;You can often find helpful discussions by searching the internet.  Try copying your code or error message into your preferred search engine, and you will usually find other people with the same problem and one or more solutions.  Frequently these discussions take place on sites like the ones listed below, so you can also try searching these sites directly or posting a question on them.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;For advice on how to write a good question (so you are likely to get useful answers), see &lt;a href=&#34;https://stackoverflow.com/help/mcve&#34; target=&#34;_blank&#34;&gt;this StackOverflow post&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4 id=&#34;general-data-analysis&#34;&gt;General Data Analysis&lt;/h4&gt;
 
@@ -269,29 +292,6 @@
 &lt;h3 id=&#34;coming-soon&#34;&gt;Coming soon!&lt;/h3&gt;
 
 &lt;p&gt;Check back soon for a tutorial teaching the nitty-gritty details of analyzing RNA-seq data!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Clovis BIOL11A Lab Fall 2018</title>
-      <link>/course/2018-09-25-clovis-tutorials/</link>
-      <pubDate>Tue, 25 Sep 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/course/2018-09-25-clovis-tutorials/</guid>
-      <description>
-
-&lt;h3 id=&#34;prelab&#34;&gt;PreLab&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://katherinecox.shinyapps.io/clovis_intro_r/&#34; target=&#34;_blank&#34;&gt;Introduction to R&lt;/a&gt;
-This will open a web tutorial teaching the basics of R.&lt;/p&gt;
-
-&lt;h3 id=&#34;day-1-lab&#34;&gt;Day 1 Lab&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/C-MOOR/clovis-biol11a/master/Clovis_RNAseq_single_sample.Rmd&#34; target=&#34;_blank&#34;&gt;Day 1 Lab&lt;/a&gt;  Download this file and open it using RStudio. You may need to right-click the link and choose &amp;ldquo;Download File&amp;rdquo;.  Make sure you save it as a .Rmd file - some browsers like to save it as a text file by adding .txt to the end of the file name.&lt;/p&gt;
-
-&lt;h3 id=&#34;day-2-lab&#34;&gt;Day 2 Lab&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/C-MOOR/clovis-biol11a/master/Clovis_Differential_Expression.Rmd&#34; target=&#34;_blank&#34;&gt;Day 2 Lab&lt;/a&gt;  Download this file and open it using RStudio. You may need to right-click the link and choose &amp;ldquo;Download File&amp;rdquo;.  Make sure you save it as a .Rmd file - some browsers like to save it as a text file by adding .txt to the end of the file name.&lt;/p&gt;
 </description>
     </item>
     

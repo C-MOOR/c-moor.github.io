@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheat Sheets on C-MOOR</title>
+    <link>/cheatsheet/</link>
+    <description>Recent content in Cheat Sheets on C-MOOR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Dec 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/cheatsheet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cheat Sheets</title>
+      <link>/cheatsheet/cheatsheets/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/cheatsheet/cheatsheets/</guid>
+      <description>The following pdfs provide some handy cheat sheets for remembering useful commands.
+ base R dplyr ggplot2 RStudio IDE R Markdown  Many more cheat sheets can be found on the RStudio Cheat Sheets page.</description>
+    </item>
+    
+  </channel>
+</rss>
