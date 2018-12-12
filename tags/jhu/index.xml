@@ -6,10 +6,19 @@
     <description>Recent content in JHU on C-MOOR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Apr 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 12 Dec 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/jhu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Katherine Cox</title>
+      <link>/portfolio/coxkatherine/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/portfolio/coxkatherine/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Practical Genomics Workshop 2018</title>
@@ -22,20 +31,20 @@ Prerequisites  Install R (version 3.4.3 or higher) and RStudio (version 1.1.423 
     </item>
     
     <item>
+      <title>Caitlin Pozmanter</title>
+      <link>/portfolio/pozmantercaitlin/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/portfolio/pozmantercaitlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>JHU Intersession 2018</title>
       <link>/course/2018-01-08-intersession/</link>
       <pubDate>Mon, 08 Jan 2018 00:00:00 -0500</pubDate>
       
       <guid>/course/2018-01-08-intersession/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Katherine Cox</title>
-      <link>/portfolio/coxkatherine/</link>
-      <pubDate>Mon, 10 Dec 2018 10:35:29 -0500</pubDate>
-      
-      <guid>/portfolio/coxkatherine/</guid>
       <description></description>
     </item>
     

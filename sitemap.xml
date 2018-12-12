@@ -32,6 +32,14 @@
     
     <url>
     
+      <loc>/portfolio/coxkatherine/</loc>
+      <lastmod>2018-12-10T10:35:29-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/cheatsheet/</loc>
       <lastmod>2018-12-11T16:47:00-05:00</lastmod>
     </url>
@@ -82,6 +90,14 @@
     
       <loc>/course/2018-04-13-practical-genomics/</loc>
       <lastmod>2018-11-29T17:34:35-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/portfolio/pozmantercaitlin/</loc>
+      <lastmod>2018-01-31T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -189,16 +205,8 @@
     <url>
     
       <loc>/tags/jhu/</loc>
-      <lastmod>2018-11-29T17:34:35-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/portfolio/coxkatherine/</loc>
       <lastmod>2018-12-10T10:35:29-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -223,7 +231,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2018-12-05T13:28:59-05:00</lastmod>
+      <lastmod>2018-12-10T10:35:29-05:00</lastmod>
       <priority>0</priority>
     </url>
     
