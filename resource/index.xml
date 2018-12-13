@@ -18,7 +18,7 @@
       
       <guid>/resource/intro/</guid>
       <description>Scroll down or click on any of these topics to see suggested resources for learning more:
- Biology RNA-seq Statistics Machine Learning R  </description>
+ Biology Next Generation Sequencing RNA-seq Statistics Machine Learning R  </description>
     </item>
     
     <item>
@@ -28,7 +28,18 @@
       
       <guid>/resource/biology/</guid>
       <description>Crash Course has several videos explaining biology concepts. We recommend the following videos in particular if you&amp;rsquo;d like to work on sequence analysis:
- Animal Cells Biological Molecules DNA structure Transcription and Translation  </description>
+ Animal Cells Biological Molecules DNA structure Transcription and Translation  Some additional videos on genes and genomes:
+ Harvard, “An Introduction to the Human Genome” Scientific American, “Genes vs. DNA vs. Chromosomes”  </description>
+    </item>
+    
+    <item>
+      <title>Next Generation Sequencing</title>
+      <link>/resource/next-gen-sequencing/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/resource/next-gen-sequencing/</guid>
+      <description>  Rafa Irizarry, &amp;ldquo;Intro to Next Generation Sequencing” Ben Langmead, “Intro to Alignment” Visualizing genomic data with IGV NCBI, &amp;ldquo;The FASTQ File Format&amp;rdquo;: A common, standard format for sequencing data  Sequencing Technologies: The following videos give an overview of the technical process of different modern sequencing strategies
+ Illumina: Short reads, high accuracy, high throughput Nanopore: Very long reads, lower accuracy, moderate throughput Sanger: Long reads, high accuracy, very low throughput  </description>
     </item>
     
     <item>
@@ -37,7 +48,7 @@
       <pubDate>Mon, 10 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>/resource/rnaseq/</guid>
-      <description>RNA-seqlopedia: &amp;ldquo;The RNA-seqlopedia provides an overview of RNA-seq and of the choices necessary to carry out a successful RNA-seq experiment.&amp;rdquo; It provides a good background and overview but does not go into the practical details of how to do the various data analysis steps (what programs to use and how to use them). COMBINE-Australia, &amp;ldquo;RNAseq analysis in R&amp;ldquo;: Materials from a workshop on RNA-seq analysis in R. HarvardX, &amp;ldquo;Data Analysis for the Life Sciences Series&amp;ldquo;: A data-science heavy series of lessons on analyzing biological data, with an emphasis on gene expression.</description>
+      <description>Introductory videos  Rafa Irizarry, “Intro to RNA-seq” (5 min) Kasper Hansen, “Introduction to RNAseq” (1 hr 17 min)  Online texts  RNA-seqlopedia: &amp;ldquo;The RNA-seqlopedia provides an overview of RNA-seq and of the choices necessary to carry out a successful RNA-seq experiment.&amp;rdquo; It provides a good background and overview but does not go into the practical details of how to do the various data analysis steps (what programs to use and how to use them).</description>
     </item>
     
     <item>
@@ -46,7 +57,7 @@
       <pubDate>Mon, 10 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>/resource/statistics/</guid>
-      <description> Modern Statistics for Modern Biology StatQuest Statistical Modeling: A Fresh Approach  </description>
+      <description> Videos  StatQuest: A collection of videos explaining a variety of statistics concepts and methods. Rafa Irizarry, &amp;ldquo;Introduction to Statistics&amp;rdquo;  Online textbooks  Modern Statistics for Modern Biology Statistical Modeling: A Fresh Approach  </description>
     </item>
     
     <item>

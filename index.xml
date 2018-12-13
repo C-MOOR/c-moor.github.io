@@ -28,6 +28,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/resource#biology&#34;&gt;Biology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/resource#next-gen-sequencing&#34;&gt;Next Generation Sequencing&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/resource#rnaseq&#34;&gt;RNA-seq&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/resource#statistics&#34;&gt;Statistics&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/resource#machine-learning&#34;&gt;Machine Learning&lt;/a&gt;&lt;/li&gt;
@@ -42,7 +43,7 @@
       <pubDate>Tue, 11 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>/cheatsheet/cheatsheets/</guid>
-      <description>&lt;p&gt;The following pdfs provide some handy cheat sheets for remembering useful commands.&lt;/p&gt;
+      <description>&lt;p&gt;The following links provide some handy cheat sheets for remembering useful commands.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/rstudio/cheatsheets/raw/master/base-r.pdf&#34; target=&#34;_blank&#34;&gt;base R&lt;/a&gt;&lt;/li&gt;
@@ -50,6 +51,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf&#34; target=&#34;_blank&#34;&gt;ggplot2&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf&#34; target=&#34;_blank&#34;&gt;RStudio IDE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf&#34; target=&#34;_blank&#34;&gt;R Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://swcarpentry.github.io/shell-novice/reference/&#34; target=&#34;_blank&#34;&gt;Unix Shell&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Many more cheat sheets can be found on the &lt;a href=&#34;https://www.rstudio.com/resources/cheatsheets/&#34; target=&#34;_blank&#34;&gt;RStudio Cheat Sheets&lt;/a&gt; page.&lt;/p&gt;
@@ -69,6 +71,13 @@
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=H8WJ2KENlK0&amp;amp;list=PL3EED4C1D684D3ADF&amp;amp;index=3&#34; target=&#34;_blank&#34;&gt;Biological Molecules&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8kK2zwjRV0M&amp;amp;list=PL3EED4C1D684D3ADF&amp;amp;index=10&#34; target=&#34;_blank&#34;&gt;DNA structure&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=itsb2SqR-R0&amp;amp;index=11&amp;amp;list=PL3EED4C1D684D3ADF&#34; target=&#34;_blank&#34;&gt;Transcription and Translation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Some additional videos on genes and genomes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Harvard, &lt;a href=&#34;https://www.youtube.com/watch?v=jEJp7B6u_dY&#34; target=&#34;_blank&#34;&gt;“An Introduction to the Human Genome”&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Scientific American, &lt;a href=&#34;https://www.youtube.com/watch?v=C8OL1MTbGpU&#34; target=&#34;_blank&#34;&gt;“Genes vs. DNA vs. Chromosomes”&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -125,12 +134,50 @@
     </item>
     
     <item>
+      <title>Next Generation Sequencing</title>
+      <link>/resource/next-gen-sequencing/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/resource/next-gen-sequencing/</guid>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;Rafa Irizarry, &lt;a href=&#34;https://www.youtube.com/watch?v=6TfYnsyo77o&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Intro to Next Generation Sequencing”&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ben Langmead, &lt;a href=&#34;https://www.youtube.com/watch?v=W6UL3UVdZDw&#34; target=&#34;_blank&#34;&gt;“Intro to Alignment”&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=E_G8z_2gTYM&#34; target=&#34;_blank&#34;&gt;Visualizing genomic data with IGV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;NCBI, &lt;a href=&#34;https://www.youtube.com/watch?v=AvuTp3s_a1o&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;The FASTQ File Format&amp;rdquo;&lt;/a&gt;: A common, standard format for sequencing data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sequencing-technologies&#34;&gt;Sequencing Technologies:&lt;/h2&gt;
+
+&lt;p&gt;The following videos give an overview of the technical process of different modern sequencing strategies&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=fCd6B5HRaZ8&#34; target=&#34;_blank&#34;&gt;Illumina&lt;/a&gt;: Short reads, high accuracy, high throughput&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=GUb1TZvMWsw&#34; target=&#34;_blank&#34;&gt;Nanopore&lt;/a&gt;: Very long reads, lower accuracy, moderate throughput&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FvHRio1yyhQ&#34; target=&#34;_blank&#34;&gt;Sanger&lt;/a&gt;: Long reads, high accuracy, very low throughput&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>RNA-seq</title>
       <link>/resource/rnaseq/</link>
       <pubDate>Mon, 10 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>/resource/rnaseq/</guid>
-      <description>&lt;ul&gt;
+      <description>
+
+&lt;h2 id=&#34;introductory-videos&#34;&gt;Introductory videos&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Rafa Irizarry, &lt;a href=&#34;https://www.youtube.com/watch?v=269_d0u_gHk&#34; target=&#34;_blank&#34;&gt;“Intro to RNA-seq”&lt;/a&gt; (5 min)&lt;/li&gt;
+&lt;li&gt;Kasper Hansen, &lt;a href=&#34;https://www.youtube.com/watch?v=C8RNvWu7pAw&#34; target=&#34;_blank&#34;&gt;“Introduction to RNAseq”&lt;/a&gt; (1 hr 17 min)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;online-texts&#34;&gt;Online texts&lt;/h2&gt;
+
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://rnaseq.uoregon.edu&#34; target=&#34;_blank&#34;&gt;RNA-seqlopedia&lt;/a&gt;: &amp;ldquo;The RNA-seqlopedia provides an overview of RNA-seq and of the choices necessary to carry out a successful RNA-seq experiment.&amp;rdquo;  It provides a good background and overview but does not go into the practical details of how to do the various data analysis steps (what programs to use and how to use them).&lt;/li&gt;
 &lt;li&gt;COMBINE-Australia, &amp;ldquo;&lt;a href=&#34;http://combine-australia.github.io/RNAseq-R/&#34; target=&#34;_blank&#34;&gt;RNAseq analysis in R&lt;/a&gt;&amp;ldquo;: Materials from a workshop on RNA-seq analysis in R.&lt;/li&gt;
 &lt;li&gt;HarvardX, &amp;ldquo;&lt;a href=&#34;http://rafalab.github.io/pages/harvardx.html&#34; target=&#34;_blank&#34;&gt;Data Analysis for the Life Sciences Series&lt;/a&gt;&amp;ldquo;: A data-science heavy series of lessons on analyzing biological data, with an emphasis on gene expression.  A good resource if you want to dive deeper into the statistics.&lt;/li&gt;
@@ -164,9 +211,19 @@
       <pubDate>Mon, 10 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>/resource/statistics/</guid>
-      <description>&lt;ul&gt;
+      <description>
+
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://statquest.org&#34; target=&#34;_blank&#34;&gt;StatQuest&lt;/a&gt;: A collection of videos explaining a variety of statistics concepts and methods.&lt;/li&gt;
+&lt;li&gt;Rafa Irizarry, &lt;a href=&#34;https://www.youtube.com/watch?v=3huF0DwxCtU&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Introduction to Statistics&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;online-textbooks&#34;&gt;Online textbooks&lt;/h2&gt;
+
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://web.stanford.edu/class/bios221/book/&#34; target=&#34;_blank&#34;&gt;Modern Statistics for Modern Biology&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://statquest.org&#34; target=&#34;_blank&#34;&gt;StatQuest&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://mosaic-web.org/go/SM2-technique/&#34; target=&#34;_blank&#34;&gt;Statistical Modeling: A Fresh Approach&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -278,20 +335,6 @@
 &lt;li&gt;If you don&amp;rsquo;t want to look through your &lt;code&gt;sessionInfo()&lt;/code&gt;, you can use the following command: &lt;code&gt;grep( &amp;quot;DESeq2&amp;quot;, loadedNamespaces(), value=TRUE )&lt;/code&gt; to see if the &lt;code&gt;DESeq2&lt;/code&gt; package is loaded.  If it loaded successfully, you should see the output &lt;code&gt;[1]&amp;quot;DESeq2&amp;quot;&lt;/code&gt;.  If it did not load, you will see &lt;code&gt;character(0)&lt;/code&gt;.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>RNA-seq</title>
-      <link>/tutorial/rna-seq/</link>
-      <pubDate>Tue, 27 Nov 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/tutorial/rna-seq/</guid>
-      <description>
-
-&lt;h3 id=&#34;coming-soon&#34;&gt;Coming soon!&lt;/h3&gt;
-
-&lt;p&gt;Check back soon for a tutorial teaching the nitty-gritty details of analyzing RNA-seq data!&lt;/p&gt;
 </description>
     </item>
     
