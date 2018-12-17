@@ -6,18 +6,20 @@
     <description>Recent content in RNAseq on C-MOOR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Nov 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 13 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/rnaseq/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>RNA-seq</title>
+      <title>RNA-seq Analysis</title>
       <link>/tutorial/rna-seq/</link>
-      <pubDate>Tue, 27 Nov 2018 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/tutorial/rna-seq/</guid>
-      <description>Coming soon! Check back soon for a tutorial teaching the nitty-gritty details of analyzing RNA-seq data!</description>
+      <description>&lt;p&gt;This sequence provides a detailed explanation of the process of RNA-seq analysis and teaches you to the skills to carry out your own analyses.  You will explore real RNA-seq data from the fruit-fly midgut.  You will learn how to use several different R packages for RNA-seq analysis, as well as learning how to prepare and reformat your data so that it can be analyzed by these programs.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
