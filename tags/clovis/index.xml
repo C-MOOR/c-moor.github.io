@@ -6,10 +6,19 @@
     <description>Recent content in Clovis on C-MOOR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Sep 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 19 Dec 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/clovis/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rosa Alcazar</title>
+      <link>/portfolio/alcazarrosa/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/portfolio/alcazarrosa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Clovis BIOL11A Lab Fall 2018</title>
