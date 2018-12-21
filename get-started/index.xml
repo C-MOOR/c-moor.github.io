@@ -12,13 +12,41 @@
     
     
     <item>
-      <title>Get Started</title>
+      <title>Welcome!</title>
       <link>/get-started/intro/</link>
       <pubDate>Sat, 20 Aug 2016 00:00:00 -0400</pubDate>
       
       <guid>/get-started/intro/</guid>
-      <description>C-MOOR teaches data analysis using the R programming language. If you&amp;rsquo;ve never done any programming before, welcome! We&amp;rsquo;ve got tutorials to get you up to speed.
-All of our tutorial series start with a basic overview, which you can access directly from this site without having to sign up or install anything. If you just want to browse and get an idea of what we have, or get an introduction to a topic, these are a great place to start.</description>
+      <description> C-MOOR strives to break down barriers to scientific participation by providing online access to real scientific data, analytical tools, mentorship, and opportunities to interact with real scientists. If you&amp;rsquo;ve never done any programming before, no worries! We&amp;rsquo;ve got tutorials to get you up to speed. Click on one of the links below for advice on how to get started, depending on your background.
+I am &amp;hellip;  Completely new to R Familiar with R and want to learn genomics An educator interested in using and/or contributing  </description>
+    </item>
+    
+    <item>
+      <title>Completely new to R</title>
+      <link>/get-started/newtor/</link>
+      <pubDate>Sat, 20 Aug 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/get-started/newtor/</guid>
+      <description>Check out our online Intro to R tutorial. You won&amp;rsquo;t need to sign-up or install anything. If you want to dig deeper in to a particular topic, you will need access to R and RStudio so that you can run code yourself. You can do this in one of two ways:
+ Install it yourself, on your own computer. R is open source (free!) and the installation is pretty straightforward, there are some instructions below.</description>
+    </item>
+    
+    <item>
+      <title>Familiar with R and want to learn genomics</title>
+      <link>/get-started/learngenomics/</link>
+      <pubDate>Sat, 20 Aug 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/get-started/learngenomics/</guid>
+      <description> Check out our RNA-seq tutorials Explore our Datasets  </description>
+    </item>
+    
+    <item>
+      <title>Interested in using and/or contributing</title>
+      <link>/get-started/educator/</link>
+      <pubDate>Sat, 20 Aug 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/get-started/educator/</guid>
+      <description> Explore our past courses and workshops Get in touch with us See who else is using and contributing to C-MOOR  </description>
     </item>
     
     <item>
