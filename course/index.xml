@@ -12,13 +12,23 @@
     
     
     <item>
+      <title>Clovis BIOL11A Lab Spring 2019</title>
+      <link>/course/2019-02-25-clovis-tutorials/</link>
+      <pubDate>Mon, 25 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/course/2019-02-25-clovis-tutorials/</guid>
+      <description>PreLab Introduction to R This will open a web tutorial teaching the basics of R.
+Day 1 Lab Day 1 Lab Download this file and open it using RStudio. You may need to right-click the link and choose &amp;ldquo;Download File&amp;rdquo;. Make sure you save it as a .Rmd file - some browsers like to save it as a text file by adding .txt to the end of the file name.</description>
+    </item>
+    
+    <item>
       <title>Clovis BIOL11A Lab Fall 2018</title>
       <link>/course/2018-09-25-clovis-tutorials/</link>
       <pubDate>Tue, 25 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/course/2018-09-25-clovis-tutorials/</guid>
-      <description>PreLab Introduction to R This will open a web tutorial teaching the basics of R.
-Day 1 Lab Day 1 Lab Download this file and open it using RStudio. You may need to right-click the link and choose &amp;ldquo;Download File&amp;rdquo;. Make sure you save it as a .Rmd file - some browsers like to save it as a text file by adding .txt to the end of the file name.</description>
+      <description>Instructions:  Download a zip file containing all the tutorials and related assets. Unzip this file. If you have not already, you will need to install R, RStudio, and the R packages listed in the README file. There are 3 R Markdown (.Rmd) files in the main folder - these are the tutorials. Open them using RStudio and click &amp;ldquo;Run Tutorial&amp;rdquo;.  PreLab Introduction to R: Clovis_Intro_R.Rmd
+Day 1 Lab Introduction to RNA-seq: Clovis_RNAseq_single_sample.</description>
     </item>
     
     <item>
