@@ -18,7 +18,7 @@
       
       <guid>/course/2019-09-23-clovis-tutorials/</guid>
       <description>PreLab Introduction to R This will open a web tutorial teaching the basics of R.
-Lab Exercise Instructions For each lab, download the file and open it using RStudio, then click the &amp;ldquo;Run Document&amp;rdquo; button in the top left panel. You may need to right-click the link and choose &amp;ldquo;Download File&amp;rdquo;. Make sure you save it as a .Rmd file - some browsers like to save it as a text file by adding .</description>
+Lab Exercise Instructions For each lab, download the linked file below. You may need to right-click the link and choose &amp;ldquo;Download File&amp;rdquo; or &amp;ldquo;Save File As&amp;rdquo;. Make sure you save it as a .Rmd file - some browsers like to save it as a text file by adding .txt to the end of the file name.</description>
     </item>
     
     <item>
