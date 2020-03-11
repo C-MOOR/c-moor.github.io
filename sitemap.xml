@@ -36,6 +36,12 @@
     
   
     
+    <url>
+    
+      <loc>/dataset/rnaseq-fly-midgut-regions/</loc>
+      <lastmod>2019-01-07T11:34:20-05:00</lastmod>
+    </url>
+    
   
     
     <url>
@@ -50,6 +56,14 @@
     
       <loc>/course/2019-02-25-clovis-tutorials/</loc>
       <lastmod>2019-09-27T14:43:47-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/dataset/</loc>
+      <lastmod>2019-01-02T19:50:48-05:00</lastmod>
     </url>
     
   
@@ -176,14 +190,6 @@
     
     <url>
     
-      <loc>/datasets/</loc>
-      <lastmod>2018-10-17T23:21:44-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/course/</loc>
       <lastmod>2018-11-29T17:34:35-05:00</lastmod>
     </url>
@@ -210,6 +216,15 @@
     
       <loc>/portfolio/</loc>
       <lastmod>2018-11-20T16:45:39-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/biology/</loc>
+      <lastmod>2019-01-07T11:34:20-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -278,7 +293,7 @@
     <url>
     
       <loc>/tags/rnaseq/</loc>
-      <lastmod>2018-12-19T17:07:26-05:00</lastmod>
+      <lastmod>2019-01-07T11:34:20-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -287,7 +302,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2019-10-06T09:37:33-04:00</lastmod>
+      <lastmod>2019-01-07T11:34:20-05:00</lastmod>
       <priority>0</priority>
     </url>
     

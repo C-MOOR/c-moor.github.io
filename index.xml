@@ -103,16 +103,6 @@
     </item>
     
     <item>
-      <title>Coming Soon!</title>
-      <link>/datasets/comingsoon/</link>
-      <pubDate>Sat, 20 Aug 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/datasets/comingsoon/</guid>
-      <description>&lt;p&gt;Check back soon for more information about our current data analysis projects.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Completely new to R</title>
       <link>/get-started/newtor/</link>
       <pubDate>Sat, 20 Aug 2016 00:00:00 -0400</pubDate>
@@ -232,7 +222,7 @@
       <guid>/get-started/learngenomics/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Check out our &lt;a href=&#34;/tutorial/RNA-seq&#34;&gt;RNA-seq tutorials&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Explore our &lt;a href=&#34;/datasets&#34;&gt;Datasets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Explore our &lt;a href=&#34;/dataset&#34;&gt;Datasets&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -302,6 +292,24 @@
 &lt;li&gt;DataCamp &lt;a href=&#34;https://www.datacamp.com/courses/free-introduction-to-r&#34; target=&#34;_blank&#34;&gt;Introduction to R&lt;/a&gt;: &amp;ldquo;In this introduction to R, you will master the basics of this beautiful open source language, including factors, lists and data frames. With the knowledge gained in this course, you will be ready to undertake your first very own data analysis.&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://jhudatascience.org/chromebookdatascience/&#34; target=&#34;_blank&#34;&gt;Chromebook Data Science&lt;/a&gt;: &amp;ldquo;Chromebook Data Science (CBDS) is a free, massive open online educational program offered through Leanpub to help anyone who can read, write, and use a computer to move into data science, the number one rated job.&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Installing R</title>
+      <link>/get-started/installr/</link>
+      <pubDate>Sat, 20 Aug 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/get-started/installr/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Install base R:&lt;/strong&gt;  You can download R from the &lt;a href=&#34;https://cran.rstudio.com&#34; target=&#34;_blank&#34;&gt;CRAN repository&lt;/a&gt;.  Choose your operating system, then download the most recent release of R.  Once you&amp;rsquo;ve downloaded the file, double-click to run it, and it should walk you through the R installation wizard.  If you&amp;rsquo;re not sure about any of the options, choosing the default is a good idea.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Install RStudio:&lt;/strong&gt;  Download RStudio from the &lt;a href=&#34;https://www.rstudio.com/products/rstudio/download/&#34; target=&#34;_blank&#34;&gt;RStudio website&lt;/a&gt;.  Find RStudio Desktop, which is completely free, and click the Download button.  Once you&amp;rsquo;ve downloaded the file, double-click to run it, and it should walk you through the R installation wizard.  If you&amp;rsquo;re not sure about any of the options, choosing the default is a good idea.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Start Up R and RStudio:&lt;/strong&gt;  Once you&amp;rsquo;ve installed RStudio you should be able to find and run it just like any other program. You can search for it in the search bar, or find it under the Start Menu (for Windows) or Applications (for Mac).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Choose a Tutorial and Get Started!:&lt;/strong&gt;  Find a topic you&amp;rsquo;re interested in and jump on in!  Often tutorials will require you to install additional R packages that are specialized for dealing with particular types of data; instructions for installing any extra packages should be available along with the tutorials.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     

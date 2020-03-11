@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 2.4.0">
+  <meta name="generator" content="Hugo 0.47.1" />
+  
+
+  
+  
+  
+  
+    
+  
+  <meta name="description" content="Explore regionalization of the digestive system">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/dataset/rnaseq-fly-midgut-regions/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#0095eb">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous">
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700%7cRoboto:400,400italic,700%7cRoboto&#43;Mono">
+  
+
+  <link rel="stylesheet" href="/styles.css">
+  
+
+  
+  
+  
+
+  
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="C-MOOR">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="C-MOOR">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/dataset/rnaseq-fly-midgut-regions/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@c_moor_science">
+  <meta property="twitter:creator" content="@c_moor_science">
+  
+  <meta property="og:site_name" content="C-MOOR">
+  <meta property="og:url" content="/dataset/rnaseq-fly-midgut-regions/">
+  <meta property="og:title" content="RNA-seq: Fruit-fly Midgut Regions | C-MOOR">
+  <meta property="og:description" content="Explore regionalization of the digestive system">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2020-03-11T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2019-01-07T11:34:20-05:00">
+  
+
+  
+
+  
+
+  <title>RNA-seq: Fruit-fly Midgut Regions | C-MOOR</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="navbar-header">
+      
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+      <a class="navbar-brand" href="/"><img src="/img/cmoor_logo.png" alt="C-MOOR"></a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse">
+
+      
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/get-started/">
+            
+            <span>Get Started</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+            
+            <span>Learn</span>
+            
+            <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="nav-item">
+              <a href="/course/">
+                
+                <span>Courses and Workshops</span>
+                
+              </a>
+            </li>
+            
+            <li class="nav-item">
+              <a href="/tutorial/">
+                
+                <span>Tutorials</span>
+                
+              </a>
+            </li>
+            
+            <li class="nav-item">
+              <a href="/cheatsheet/">
+                
+                <span>Cheat Sheets</span>
+                
+              </a>
+            </li>
+            
+            <li class="nav-item">
+              <a href="/resource/">
+                
+                <span>Resources</span>
+                
+              </a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/dataset/">
+            
+            <span>Datasets</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/portfolio/">
+            
+            <span>Portfolios</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/help/">
+            
+            <span>Help</span>
+            
+          </a>
+        </li>
+
+        
+        
+      
+
+      
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+  <div class="article-container">
+    <h1 itemprop="name">RNA-seq: Fruit-fly Midgut Regions</h1>
+
+    
+
+<div class="article-metadata">
+
+  
+  
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="">
+  </span>
+  
+
+  <span class="article-date">
+    
+        Last updated on
+    
+    <meta content="2020-03-11 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+    <time datetime="2019-01-07 11:34:20 -0500 EST" itemprop="dateModified">
+      Jan 7, 2019
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="">
+  </span>
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    5 min read
+  </span>
+  
+
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=RNA-seq%3a%20Fruit-fly%20Midgut%20Regions&amp;url=%2fdataset%2frnaseq-fly-midgut-regions%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=%2fdataset%2frnaseq-fly-midgut-regions%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fdataset%2frnaseq-fly-midgut-regions%2f&amp;title=RNA-seq%3a%20Fruit-fly%20Midgut%20Regions"
+         target="_blank" rel="noopener">
+        <i class="fa fa-linkedin"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=%2fdataset%2frnaseq-fly-midgut-regions%2f&amp;title=RNA-seq%3a%20Fruit-fly%20Midgut%20Regions"
+         target="_blank" rel="noopener">
+        <i class="fa fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=RNA-seq%3a%20Fruit-fly%20Midgut%20Regions&amp;body=%2fdataset%2frnaseq-fly-midgut-regions%2f">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+
+    <div class="article-style" itemprop="articleBody">
+      <div class="figure">
+<img src="/img/Marianes_1AB.jpg" alt="Marianes, A., &amp; Spradling, A. C. (2013). Physiological and stem cell compartmentalization within the Drosophila midgut. eLife, 2, e00886. http://doi.org/10.7554/eLife.00886. Figure 1." />
+<p class="caption">Marianes, A., &amp; Spradling, A. C. (2013). Physiological and stem cell compartmentalization within the Drosophila midgut. eLife, 2, e00886. <a href="http://doi.org/10.7554/eLife.00886" class="uri">http://doi.org/10.7554/eLife.00886</a>. Figure 1.</p>
+</div>
+<div id="download-file" class="section level2">
+<h2>Download File</h2>
+<p><a href="https://drive.google.com/uc?id=13wOmFWPOdmDRLFIaM_8Vu4aJKX99kXEh">Click here</a> to download a zip file containing RNA-seq read count data for 30 samples from the <em>Drosophila</em> midgut.</p>
+<p>Raw data are available on SRA; see NCBI <a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA207813">BioProject PRJNA207813</a>.</p>
+</div>
+<div id="introduction" class="section level2">
+<h2>Introduction</h2>
+<div id="why-study-regionalization-of-the-gut" class="section level3">
+<h3>Why study regionalization of the gut?</h3>
+<p>Often, we think of our intestines as long, uniform tubes, and we assume that the beginning of the tube is similar to the middle and the end of the tube. Sometimes we treat diseases (like cancers or Crohn’s disease) by cutting out part of the tube and sewing the healthy parts back together. But what if different regions of the tube have different jobs? If this is true, we would like to learn more about what regions exist, where the boundaries are, and what the job of each region is. This would help us have a better understanding of healthy digestion, and could lead to better understanding and treatment of digestive diseases.</p>
+</div>
+<div id="why-use-fruit-flies" class="section level3">
+<h3>Why use fruit-flies?</h3>
+<p>While we would love to be able to study these processes in humans, we can’t exactly ask hundreds of people to let us dissect their intestines! What we do instead is to use <strong>model organisms</strong> - we study the same process in different organisms in order to learn about how it might work in humans.</p>
+<p>Fruit-flies (<em>Drosophila melanogaster</em>) are a useful model organism because they breed very quickly (2 weeks!) and are easy to care for. Many human genes have matching genes in fruit-flies. Scientists have been using fruit-flies to study genetics for several decades, so we know a lot about them. This makes it easier to understand any new information that we learn.</p>
+<p>In this case, we can ask whether there are different regions in the fruit-fly gut, and if so, what do these different regions do? In future experiments, we could then look at what happens when these different regions are damaged in flies, and try to understand the outcomes. As we build an understanding of these processes in fruit-flies, we can start asking whether humans are similar - do they have matching genes?</p>
+</div>
+<div id="what-can-you-investigate" class="section level3">
+<h3>What can you investigate?</h3>
+<p>Drs. Marianes and Spradling showed that there are differences between the regions in this dataset, and that these differences seem to match up with other scientific research about the fruit-fly midgut. But there are thousands of genes in these samples that we can use for further investigations. Here are a few suggestions for questions you could investigate:</p>
+<div id="what-nutrient-processing-pathways-dominate-in-different-regions-of-the-gut" class="section level4">
+<h4>What nutrient processing pathways dominate in different regions of the gut?</h4>
+<ul>
+<li>Sterol metabolism?</li>
+<li>Lipid metabolism?</li>
+<li>Carbohydrate metabolism?</li>
+<li>Protein metabolism?</li>
+<li>Other, smaller nutrient categories, such as salts, metals, or vitamins?</li>
+</ul>
+<p>You can use databases such as <a href="https://flybase.org/">Flybase</a> and <a href="http://www.biomart.org/">BioMART</a> to identify interesting genes or groups of genes to investigate.</p>
+</div>
+<div id="are-there-other-groups-of-genes-that-dominate-in-particular-regions" class="section level4">
+<h4>Are there other groups of genes that dominate in particular regions?</h4>
+<p>This is a more open-ended, “unbiased” question - rather than looking for specific categories of genes, look at the data as a whole and see what stands out. You might find something surprising!</p>
+<ul>
+<li>What are the most highly expressed genes in different regions and what are their functions? Are they expressed across the whole midgut or just in specific regions?</li>
+<li>What are the most differentially expressed genes between regions?</li>
+<li>What genes behave similarly to each other across regions (heatmaps, clustering)?</li>
+<li>What groups or categories of genes are significantly different between regions, or behave similarly across all regions (Gene Set Analysis of differential expression or clustering results)?</li>
+</ul>
+</div>
+<div id="talk-to-us" class="section level4">
+<h4>Talk to us!</h4>
+<p>Join our <a href="https://c-moor.slack.com">Slack community</a> to talk to other people working on C-MOOR datasets, and meet other scientists, data analysts and learners. <a href="mailto:c-moor@carnegiescience.edu">E-mail</a> us for an invitation. We’d love to hear about what you’re working on!</p>
+</div>
+</div>
+</div>
+<div id="dataset-details" class="section level2">
+<h2>Dataset Details</h2>
+<div id="samples" class="section level3">
+<h3>Samples</h3>
+<p>Here is an image from the Marianes and Spradling (2013) paper showing 3 large regions (top) and 7 smaller subregions (bottom) of the <em>Drosophila</em> midgut.</p>
+<div class="figure">
+<img src="/img/Marianes_3.jpg" alt="Marianes, A., &amp; Spradling, A. C. (2013). Physiological and stem cell compartmentalization within the Drosophila midgut. eLife, 2, e00886. http://doi.org/10.7554/eLife.00886. Figure 3." />
+<p class="caption">Marianes, A., &amp; Spradling, A. C. (2013). Physiological and stem cell compartmentalization within the Drosophila midgut. eLife, 2, e00886. <a href="http://doi.org/10.7554/eLife.00886" class="uri">http://doi.org/10.7554/eLife.00886</a>. Figure 3.</p>
+</div>
+<p>There are a total of 30 read count files from 30 different samples from the Drosophila midgut.</p>
+<p>Each midgut region (or group of regions) has 3 replicate samples (3 data files, containing RNA-seq data from different flies). We collect multiple samples from each region to make sure genes behave consistently. If a particular gene is highly expressed in <code>a1</code> in one sample, we’re not sure if that’s normal or not. If the same gene is highly expressed in 3 different samples of <code>a1</code> (from different flies), then we’re much more confident in the data.</p>
+<p>The first 9 samples (am1-am9) are large sections of the midgut:</p>
+<ul>
+<li>The three anterior regions(<code>a1_3</code>)</li>
+<li>The middle regions (<code>CuLFCFe</code>)</li>
+<li>The four posterior regions (<code>p1_4</code>)</li>
+</ul>
+<p>The remaining 21 samples (<code>am10-am30</code>) are individual regions (or pairs of regions, if it was not possible to dissect out a single region):</p>
+<ul>
+<li>Anterior region 1 (<code>a1</code>)</li>
+<li>Anterior regions 2 through 3 (<code>a2_3</code>)</li>
+<li>The copper region (<code>Cu</code>)</li>
+<li>The large flat cell and iron regions (<code>LFCFe</code>)</li>
+<li>The iron region alone (<code>Fe</code>)</li>
+<li>Posterior region 1 (<code>p1</code>)</li>
+<li>Posterior regions 2 though 4 (<code>p2_4</code>)</li>
+</ul>
+<p>You can read more about these different regions and subsections in the <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3755342/">paper</a>.</p>
+<p>The table below shows each sample, the name of the file containing data for that sample, and the region the sample came from.</p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">sample</th>
+<th align="left">filename</th>
+<th align="left">condition</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">am1</td>
+<td align="left">SRR891601.htseq</td>
+<td align="left">a1_3</td>
+</tr>
+<tr class="even">
+<td align="left">am2</td>
+<td align="left">SRR891602.htseq</td>
+<td align="left">a1_3</td>
+</tr>
+<tr class="odd">
+<td align="left">am3</td>
+<td align="left">SRR891603.htseq</td>
+<td align="left">a1_3</td>
+</tr>
+<tr class="even">
+<td align="left">am4</td>
+<td align="left">SRR891604.htseq</td>
+<td align="left">CuLFCFe</td>
+</tr>
+<tr class="odd">
+<td align="left">am5</td>
+<td align="left">SRR891605.htseq</td>
+<td align="left">CuLFCFe</td>
+</tr>
+<tr class="even">
+<td align="left">am6</td>
+<td align="left">SRR891606.htseq</td>
+<td align="left">CuLFCFe</td>
+</tr>
+<tr class="odd">
+<td align="left">am7</td>
+<td align="left">SRR891607.htseq</td>
+<td align="left">p1_4</td>
+</tr>
+<tr class="even">
+<td align="left">am8</td>
+<td align="left">SRR891608.htseq</td>
+<td align="left">p1_4</td>
+</tr>
+<tr class="odd">
+<td align="left">am9</td>
+<td align="left">SRR891609.htseq</td>
+<td align="left">p1_4</td>
+</tr>
+<tr class="even">
+<td align="left">am10</td>
+<td align="left">SRR891610.htseq</td>
+<td align="left">a1</td>
+</tr>
+<tr class="odd">
+<td align="left">am11</td>
+<td align="left">SRR891611.htseq</td>
+<td align="left">a1</td>
+</tr>
+<tr class="even">
+<td align="left">am12</td>
+<td align="left">SRR891612.htseq</td>
+<td align="left">a1</td>
+</tr>
+<tr class="odd">
+<td align="left">am13</td>
+<td align="left">SRR891613.htseq</td>
+<td align="left">a2_3</td>
+</tr>
+<tr class="even">
+<td align="left">am14</td>
+<td align="left">SRR891614.htseq</td>
+<td align="left">a2_3</td>
+</tr>
+<tr class="odd">
+<td align="left">am15</td>
+<td align="left">SRR891615.htseq</td>
+<td align="left">a2_3</td>
+</tr>
+<tr class="even">
+<td align="left">am16</td>
+<td align="left">SRR891616.htseq</td>
+<td align="left">Cu</td>
+</tr>
+<tr class="odd">
+<td align="left">am17</td>
+<td align="left">SRR891617.htseq</td>
+<td align="left">Cu</td>
+</tr>
+<tr class="even">
+<td align="left">am18</td>
+<td align="left">SRR891618.htseq</td>
+<td align="left">Cu</td>
+</tr>
+<tr class="odd">
+<td align="left">am19</td>
+<td align="left">SRR891619.htseq</td>
+<td align="left">LFCFe</td>
+</tr>
+<tr class="even">
+<td align="left">am20</td>
+<td align="left">SRR891620.htseq</td>
+<td align="left">LFCFe</td>
+</tr>
+<tr class="odd">
+<td align="left">am21</td>
+<td align="left">SRR891621.htseq</td>
+<td align="left">LFCFe</td>
+</tr>
+<tr class="even">
+<td align="left">am22</td>
+<td align="left">SRR891622.htseq</td>
+<td align="left">Fe</td>
+</tr>
+<tr class="odd">
+<td align="left">am23</td>
+<td align="left">SRR891623.htseq</td>
+<td align="left">Fe</td>
+</tr>
+<tr class="even">
+<td align="left">am24</td>
+<td align="left">SRR891624.htseq</td>
+<td align="left">Fe</td>
+</tr>
+<tr class="odd">
+<td align="left">am25</td>
+<td align="left">SRR891625.htseq</td>
+<td align="left">p1</td>
+</tr>
+<tr class="even">
+<td align="left">am26</td>
+<td align="left">SRR891626.htseq</td>
+<td align="left">p1</td>
+</tr>
+<tr class="odd">
+<td align="left">am27</td>
+<td align="left">SRR891627.htseq</td>
+<td align="left">p1</td>
+</tr>
+<tr class="even">
+<td align="left">am28</td>
+<td align="left">SRR891628.htseq</td>
+<td align="left">p2_4</td>
+</tr>
+<tr class="odd">
+<td align="left">am29</td>
+<td align="left">SRR891629.htseq</td>
+<td align="left">p2_4</td>
+</tr>
+<tr class="even">
+<td align="left">am30</td>
+<td align="left">SRR891630.htseq</td>
+<td align="left">p2_4</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+    </div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="label label-default" href="/tags/rnaseq/">RNAseq</a>
+  
+  <a class="label label-default" href="/tags/biology/">Biology</a>
+  
+</div>
+
+
+
+
+    
+    
+    <div class="article-widget">
+      <div class="hr-light"></div>
+      <h3>Related</h3>
+      <ul>
+        
+        <li><a href="/tutorial/rna-seq/">RNA-seq Analysis</a></li>
+        
+      </ul>
+    </div>
+    
+
+    
+
+    
+
+
+  </div>
+</article>
+
+<footer class="site-footer">
+
+  <div class="container">
+
+    <div class="row">
+      <a class="navbar-brand col-xs-12 col-md-6 col-xl-3" href="https://emb.carnegiescience.edu">
+        <img class="center-block" src="/img/Carnegie_EMB_logo.png" alt="Carnegie Institution Department of Embryology">
+      </a>
+      <a class="navbar-brand col-xs-12 col-md-6 col-xl-3" href="https://www.jhu.edu">
+        <img class="center-block" src="/img/JHU_logo.jpg" alt="Carnegie Institution Department of Embryology">
+      </a>
+      <a class="navbar-brand col-xs-12 col-md-6 col-xl-3" href="https://dtm.carnegiescience.edu">
+        <img class="center-block" src="/img/Carnegie_DTM_logo.png" alt="Carnegie Institution Department of Embryology">
+      </a>
+      <a class="navbar-brand col-xs-12 col-md-6 col-xl-3" href="https://www.cloviscollege.edu/">
+        <img class="center-block" src="/img/Clovis_logo_wide.jpg" alt="Carnegie Institution Department of Embryology">
+      </a>
+    </div>
+  </div>
+
+  <div class="container">
+
+    <p class="powered-by">
+      
+    </p>
+
+    <p class="powered-by">
+
+      
+
+      Powered by the
+      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+      Logo by <a href="https://hudrewthis.com" target="_blank" rel="noopener">Caroline Hu</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close btn-large" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Cite</h4>
+      </div>
+      <div>
+        <pre><code class="modal-body tex"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-primary btn-outline js-copy-cite" href="#" target="_blank">
+          <i class="fa fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-primary btn-outline js-download-cite" href="#" target="_blank">
+          <i class="fa fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha512-3P8rXCuGJdNZOnUx/03c1jOTnMn3rP63nBip5gOP2qmUh5YAdVAvFZ1E+QLZZbC1rtMrQb+mah3AfYW11RUrWA==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    <script src="/js/hugo-academic.js"></script>
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/search.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    <script src="/js/search.js"></script>
+    
+
+    
+    
+
+  </body>
+</html>
+

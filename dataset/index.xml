@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RNAseq on C-MOOR</title>
-    <link>/tags/rnaseq/</link>
-    <description>Recent content in RNAseq on C-MOOR</description>
+    <title>Datasets on C-MOOR</title>
+    <link>/dataset/</link>
+    <description>Recent content in Datasets on C-MOOR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/rnaseq/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/dataset/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,17 +21,6 @@
  Download File Click here to download a zip file containing RNA-seq read count data for 30 samples from the Drosophila midgut.
 Raw data are available on SRA; see NCBI BioProject PRJNA207813.
  Introduction Why study regionalization of the gut? Often, we think of our intestines as long, uniform tubes, and we assume that the beginning of the tube is similar to the middle and the end of the tube.</description>
-    </item>
-    
-    <item>
-      <title>RNA-seq Analysis</title>
-      <link>/tutorial/rna-seq/</link>
-      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tutorial/rna-seq/</guid>
-      <description>&lt;p&gt;This sequence provides a detailed explanation of the process of RNA-seq analysis and teaches you to the skills to carry out your own analyses.  You will explore real RNA-seq data from the fruit-fly midgut.  You will learn how to use several different R packages for RNA-seq analysis, as well as learning how to prepare and reformat your data so that it can be analyzed by these programs.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
